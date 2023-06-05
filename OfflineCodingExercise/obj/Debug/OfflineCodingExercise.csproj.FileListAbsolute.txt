@@ -1,0 +1,10 @@
+C:\Users\Jose Vidal Asencio\source\repos\OfflineCodingExercise\OfflineCodingExercise\obj\Debug\OfflineCodingExercise.Presenter.FrmOpenlibrary.resources
+C:\Users\Jose Vidal Asencio\source\repos\OfflineCodingExercise\OfflineCodingExercise\obj\Debug\OfflineCodingExercise.Properties.Resources.resources
+C:\Users\Jose Vidal Asencio\source\repos\OfflineCodingExercise\OfflineCodingExercise\obj\Debug\OfflineCodingExercise.csproj.GenerateResource.cache
+C:\Users\Jose Vidal Asencio\source\repos\OfflineCodingExercise\OfflineCodingExercise\obj\Debug\OfflineCodingExercise.csproj.CoreCompileInputs.cache
+C:\Users\Jose Vidal Asencio\source\repos\OfflineCodingExercise\OfflineCodingExercise\bin\Debug\OfflineCodingExercise.exe.config
+C:\Users\Jose Vidal Asencio\source\repos\OfflineCodingExercise\OfflineCodingExercise\bin\Debug\OfflineCodingExercise.exe
+C:\Users\Jose Vidal Asencio\source\repos\OfflineCodingExercise\OfflineCodingExercise\bin\Debug\OfflineCodingExercise.pdb
+C:\Users\Jose Vidal Asencio\source\repos\OfflineCodingExercise\OfflineCodingExercise\obj\Debug\OfflineCodingExercise.csproj.CopyComplete
+C:\Users\Jose Vidal Asencio\source\repos\OfflineCodingExercise\OfflineCodingExercise\obj\Debug\OfflineCodingExercise.exe
+C:\Users\Jose Vidal Asencio\source\repos\OfflineCodingExercise\OfflineCodingExercise\obj\Debug\OfflineCodingExercise.pdb
